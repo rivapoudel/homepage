@@ -8,11 +8,7 @@ Original file is located at
 
 Riva Poudel
 
-DSP 310
-
-Midterm 
-
-Due: 03.29.2021
+03.29.2021
 """
 
 # preamble to be able to run notebooks in Colab
